@@ -1,0 +1,1 @@
+find /ruta/carpeta/ -mtime +365 -type f | wc -l
